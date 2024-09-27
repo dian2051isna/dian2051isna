@@ -1,7 +1,7 @@
 - Hi everyone, I’m @dian2051isna
 - You can call me Dian
 - I’m currently learning Python and C#
-- Now, i'am just a beginner programmers
+- Now, i'm just a beginner programmers
 - Still need to learn a lot
 
 
