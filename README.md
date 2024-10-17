@@ -1,4 +1,4 @@
-- Hi everyone, I’m @dian2051isna
+- Hi everyone, I’m Dian
 - You can call me Dian
 - I’m currently learning Python and C#
 - Now, i'm just a beginner programmers
