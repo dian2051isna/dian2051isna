@@ -1,11 +1,25 @@
-- Hi everyone, I’m Dian
-- You can call me Dian
-- I’m currently learning Python and C#
-- Now, i'm just a beginner programmers
-- Still need to learn a lot
+### 👋 Hi there, I'm Dian!
 
+Welcome to my GitHub profile!  
+You can just call me **Dian** — an aspiring learner from Indonesia 🇮🇩
 
-<!---
-dian2051isna/dian2051isna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 I'm currently learning:
+- 🐍 **Python** – for scripting, automation, and backend development
+- ⚙️ **C#** – exploring .NET for building robust applications
+- ⚙️ **Flutter** – exploring user interface for devices application, especially Mobile Apps
+
+🌱 Still a beginner, but:
+- Passionate about learning and growing in the tech world
+- Believing in progress over perfection
+- Open to collaboration, feedback, and new challenges!
+
+📌 Fun fact: I believe every expert was once a beginner — and I'm enjoying every step of this journey.
+
+---
+
+📫 Let's connect:
+- 📧 Email: [your.email@example.com] _(optional)_
+- 🌐 Portfolio or Linktree: [link-if-any] _(optional)_
+
+> “Strive to be better each day with direction and vision — even if it costs something.”
+
