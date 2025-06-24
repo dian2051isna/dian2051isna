@@ -17,9 +17,7 @@ You can just call me **Dian** — an aspiring learner from Indonesia 🇮🇩
 
 ---
 
-📫 Let's connect:
-- 📧 Email: [your.email@example.com] _(optional)_
-- 🌐 Portfolio or Linktree: [link-if-any] _(optional)_
+📫 Let's connect!
 
 > “Strive to be better each day with direction and vision — even if it costs something.”
 
